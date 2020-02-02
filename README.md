@@ -1,7 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is project I created by folowing forst section of react tutorial in [FreeCourseSite.com] Udemy - Complete React Developer in 2020 (w Redux, Hooks, GraphQL).
 
-##Click to view build file
-
+## Click to view build file
 https://pasindul.github.io/monsters-rolodex/
 
 ## Available Scripts
