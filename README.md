@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Click to view build file
+
+https://pasindul.github.io/monsters-rolodex/
+
 ## Available Scripts
 
 In the project directory, you can run:
